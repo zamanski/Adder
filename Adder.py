@@ -1,2 +1,2 @@
 def Adder(*args):
-    return sum(args)
+    return sum(args) 
